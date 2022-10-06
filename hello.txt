@@ -1,1 +1,2 @@
-This is Hello text
+Hello Class!
+
